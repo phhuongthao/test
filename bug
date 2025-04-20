@@ -1,0 +1,12 @@
+1. Room
+- Filter list
+- edit: hiển thị ảnh cũ, cho chọn nhiều ảnh
+- delete phòng thêm thông báo
+- location dạng box để chọn
+
+2. User
+- add: dấu * trường phone, hiện thông báo ngay dưới text
+- delete: hiện tbao khi chọn xóa nhiều (đang có booking)
+
+3. Booking
+- delete: đang còn hiện thông báo localhost
