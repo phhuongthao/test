@@ -10,3 +10,10 @@
 
 3. Booking
 - delete: đang còn hiện thông báo localhost
+
+
+bh t chia như thế này
+Vũ: phân quyền, login, quên mật khẩu, đổi mk, gửi mail, book room, booking, history, mybooking, 
+Thảo: User, room, dashboard
+Linh: group, postion
+Cường Anh: equipment
